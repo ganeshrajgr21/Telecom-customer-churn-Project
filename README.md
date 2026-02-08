@@ -1,1 +1,1 @@
-*# Telecom-customer-churn-Project End to End analysis of Telecom customer churn performed Data clean, Visualized using Power BI and Using KPI analysis for the data to Increase the Sales growth and Churn reduction
+ Telecom-customer-churn-Project End to End analysis of Telecom customer churn performed Data clean, Visualized using Power BI and Using KPI analysis for the data to Increase the Sales growth and Churn reduction
